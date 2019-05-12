@@ -9,3 +9,4 @@
 ## Day2
 * [explanation  of channel](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 * [LearnServerProgramming](https://github.com/golang/go/wiki/LearnServerProgramming)
+* [gin](https://github.com/gin-gonic/gin#using-get-post-put-patch-delete-and-options)

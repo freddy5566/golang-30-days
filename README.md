@@ -17,3 +17,4 @@
 * [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 * [Go with GORM](https://mindbowser.com/golang-go-with-gorm-2/)
+* [docker for beginners](https://docker-curriculum.com/)

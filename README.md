@@ -18,3 +18,11 @@
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 * [Go with GORM](https://mindbowser.com/golang-go-with-gorm-2/)
 * [docker for beginners](https://docker-curriculum.com/)
+
+## Day4
+
+* [GOPATH](https://github.com/golang/go/wiki/GOPATH)
+
+* [How to Write Go Code](https://golang.org/doc/code.html)
+
+  

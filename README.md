@@ -22,7 +22,10 @@
 ## Day4
 
 * [GOPATH](https://github.com/golang/go/wiki/GOPATH)
-
 * [How to Write Go Code](https://golang.org/doc/code.html)
 
-  
+## Day5
+
+* [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
+* [dep](https://github.com/golang/dep)
+* 

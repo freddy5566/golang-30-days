@@ -28,4 +28,10 @@
 
 * [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
 * [dep](https://github.com/golang/dep)
-* 
+
+## Day6
+
+* [Go 1.11 Modules](https://github.com/golang/go/wiki/Modules)
+
+## Day7
+* [restful to-do api](https://github.com/jamfly/golang-to-do)

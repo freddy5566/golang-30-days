@@ -4,12 +4,12 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/jamfly/golang-30-days/go-login/config/db"
-	"github.com/jamfly/golang-30-days/go-login/model"
+	"golang-30-days/go-login/config/db"
+	"golang-30-days/go-login/model"
 	"io/ioutil"
 	"log"
 	"net/http"
-	
+
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/mongodb/mongo-go-driver/bson"
 	"golang.org/x/crypto/bcrypt"

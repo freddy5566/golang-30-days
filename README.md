@@ -35,3 +35,5 @@
 
 ## Day7
 * [restful to-do api](https://github.com/jamfly/golang-to-do)
+
+sorry for the late update, but turns out that I pivot it to another method to learn golang, I just create a brand new project [tat-gogogo](https://github.com/NEO-TAT/tat-gogogo), and I will still update this repo from day 8. 
